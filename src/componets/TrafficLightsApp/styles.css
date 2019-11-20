@@ -1,0 +1,13 @@
+.trafficLightsAppContainer {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  justify-content: space-around;
+  align-items: center;
+  border: 1px solid black;
+}
+
+.children {
+  display: flex;
+  flex-direction: column;
+}

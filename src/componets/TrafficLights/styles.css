@@ -1,0 +1,9 @@
+.trafficligths {
+  background-color: black;
+  width: 85px;
+  height: 275px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}

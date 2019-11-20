@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.AppBody {
+  padding: 12px 48px 12px 48px;
+  width: 93%;
+  text-align: left;
+}
+
+.exampleContainer {
+  margin: 32px auto 0;
+  text-align: center;
+}
+
+.exampleImageWrapper {
+  display: inline-grid;
+  margin-left: 16px;
+  text-align: center;
+}
+
+.exampleImageWrapper img{
+  width: 48px;
+  height: 128px;
+  margin: auto;
+}
+
+.appContainer {
+  display: flex;
+}
+
+.appChildContainer {
+  display: flex;
+  padding: 30px;
+  flex: 1;
+}
